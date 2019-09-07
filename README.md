@@ -1,2 +1,2 @@
 # LearningGit
-I am learnig git
+This repository walks you through fundamentals of Git and Github.
