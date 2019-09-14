@@ -4,7 +4,7 @@ This repository walks you through fundamentals of Git and Github.
 ## About
 Get started with learning git and using github to version your softwares, codes and lots more. 
 
-If you do not already have an account with [![Github](https://github.com)], please sign up.
+If you do not already have an account with [[Github](https://github.com)], please sign up.
 
 ### FLOW
 We will start using Github's GUI based platform to start learning and further take it to using command line using bash. 
@@ -12,7 +12,7 @@ Here are the steps to follow.
 
 ## Fork this repository
 
-A repository can be forked by clicking the Fork button on the top of the page listing the repository. Forking a repository creates a copy of the repoisoty into your acccont.
+A repository can be forked by clicking the Fork button on the top of the page listing the repository. Forking a repository creates a copy of the repository into your acccont.
 
 ## Clone the repository
 ### GUI: 
@@ -66,3 +66,12 @@ git push origin <branch-name>
 ## Submit your changes for review
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+
+## Now what???
+
+Hunt for millions of projects which suit your techstack and start contributing. 
+You can start from [[Github](https://github.com/josharsh/OpenSourceGuides)]
+
+#### Liked this project??? 
+star it on [GitHub](https://github.com/josharsh/LearningGit).
+
