@@ -69,8 +69,8 @@ If you go to your repository on GitHub, you'll see a  `Compare & pull request` b
 
 ## Now what???
 
-Hunt for millions of projects which suit your techstack and start contributing. 
-You can start from [[Github](https://github.com/josharsh/OpenSourceGuides)]
+Hunt for millions of projects which suit your tech-stack and start contributing. 
+You can start from [[Open Source Guides](https://github.com/josharsh/OpenSourceGuides)]
 
 #### Liked this project??? 
 star it on [GitHub](https://github.com/josharsh/LearningGit).
