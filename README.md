@@ -75,3 +75,6 @@ You can start from [[Open Source Guides](https://github.com/josharsh/OpenSourceG
 #### Liked this project??? 
 star it on [GitHub](https://github.com/josharsh/LearningGit).
 
+#### For getting hands dirty on Git
+Go To [Git-Scm](https://git-scm.com › book › Getting-Started-Git-Basics)
+
