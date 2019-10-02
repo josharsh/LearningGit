@@ -67,6 +67,14 @@ git push origin <branch-name>
 
 If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
 
+## See log of your project
+
+You can see your git log (last commits and etc) with `log` command:
+
+```
+git log
+```
+
 ## Now what???
 
 Hunt for millions of projects which suit your tech-stack and start contributing. 
